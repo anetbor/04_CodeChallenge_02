@@ -15,6 +15,7 @@ Alter 13-17 // Cola
 -->zB: "Max trinkt Cola."
 
 /* Getränke-Challenge */
+// Heute
 
 
 let Name, age
